@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-label="Elan Construction Corp - Siding and Remodeling">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 330" role="img" aria-label="Elan Construction Corp - Siding and Remodeling">
   <defs>
     <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#f6e7a8"/>
@@ -12,43 +12,45 @@
     </linearGradient>
   </defs>
 
-  <!-- Buildings group -->
+  <!-- Buildings group (centered around x=270) -->
   <g>
     <!-- Tall tower -->
-    <rect x="196" y="40" width="58" height="200" rx="3" fill="url(#gold)"/>
-    <rect x="208" y="22" width="34" height="22" rx="2" fill="url(#gold)"/>
+    <rect x="226" y="40" width="58" height="200" rx="3" fill="url(#gold)"/>
+    <rect x="238" y="22" width="34" height="22" rx="2" fill="url(#gold)"/>
 
     <!-- Left mid building -->
-    <rect x="150" y="120" width="58" height="120" rx="3" fill="url(#goldSoft)"/>
+    <rect x="180" y="120" width="58" height="120" rx="3" fill="url(#goldSoft)"/>
     <!-- windows -->
     <g fill="#fdfaf0">
-      <rect x="160" y="135" width="16" height="18" rx="2"/>
-      <rect x="182" y="135" width="16" height="18" rx="2"/>
-      <rect x="160" y="163" width="16" height="18" rx="2"/>
-      <rect x="182" y="163" width="16" height="18" rx="2"/>
-      <rect x="160" y="191" width="16" height="18" rx="2"/>
-      <rect x="182" y="191" width="16" height="18" rx="2"/>
+      <rect x="190" y="135" width="16" height="18" rx="2"/>
+      <rect x="212" y="135" width="16" height="18" rx="2"/>
+      <rect x="190" y="163" width="16" height="18" rx="2"/>
+      <rect x="212" y="163" width="16" height="18" rx="2"/>
+      <rect x="190" y="191" width="16" height="18" rx="2"/>
+      <rect x="212" y="191" width="16" height="18" rx="2"/>
     </g>
 
     <!-- House with gable roof -->
-    <polygon points="300,118 340,82 380,118" fill="url(#gold)"/>
-    <rect x="335" y="70" width="12" height="26" fill="url(#gold)"/>
-    <rect x="306" y="118" width="68" height="122" rx="3" fill="url(#goldSoft)"/>
+    <polygon points="330,118 370,82 410,118" fill="url(#gold)"/>
+    <rect x="365" y="70" width="12" height="26" fill="url(#gold)"/>
+    <rect x="336" y="118" width="68" height="122" rx="3" fill="url(#goldSoft)"/>
     <!-- house window -->
     <g fill="#fdfaf0">
-      <rect x="316" y="132" width="20" height="22" rx="2"/>
-      <rect x="344" y="132" width="20" height="22" rx="2"/>
+      <rect x="346" y="132" width="20" height="22" rx="2"/>
+      <rect x="374" y="132" width="20" height="22" rx="2"/>
     </g>
     <!-- house door -->
-    <rect x="330" y="188" width="20" height="52" rx="3" fill="#fdfaf0"/>
+    <rect x="360" y="188" width="20" height="52" rx="3" fill="#fdfaf0"/>
   </g>
 
-  <!-- Company name -->
-  <text x="240" y="276" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="36" letter-spacing="1.5" font-weight="700" fill="#1f2a36">ELAN CONSTRUCTION CORP</text>
-  <text x="240" y="300" text-anchor="middle" font-family="Georgia, serif" font-size="19" letter-spacing="3" fill="#3a4a5a">Siding &amp; Remodeling</text>
+  <!-- Company name (textLength keeps it inside the artboard) -->
+  <text x="270" y="278" text-anchor="middle" textLength="500" lengthAdjust="spacingAndGlyphs"
+        font-family="Georgia, 'Times New Roman', serif" font-size="38" font-weight="700" fill="#1f2a36">ELAN CONSTRUCTION CORP</text>
+  <text x="270" y="304" text-anchor="middle" textLength="230" lengthAdjust="spacingAndGlyphs"
+        font-family="Georgia, serif" font-size="20" fill="#3a4a5a">Siding &amp; Remodeling</text>
 
   <!-- Stars -->
-  <g fill="url(#gold)" transform="translate(240,314)">
+  <g fill="url(#gold)" transform="translate(270,320)">
     <path transform="translate(-32,0) scale(0.85)" d="M0,-9 L2.6,-2.8 L9,-2.8 L3.7,1.2 L5.6,8 L0,4 L-5.6,8 L-3.7,1.2 L-9,-2.8 L-2.6,-2.8 Z"/>
     <path transform="translate(0,-2) scale(1.05)" d="M0,-9 L2.6,-2.8 L9,-2.8 L3.7,1.2 L5.6,8 L0,4 L-5.6,8 L-3.7,1.2 L-9,-2.8 L-2.6,-2.8 Z"/>
     <path transform="translate(32,0) scale(0.85)" d="M0,-9 L2.6,-2.8 L9,-2.8 L3.7,1.2 L5.6,8 L0,4 L-5.6,8 L-3.7,1.2 L-9,-2.8 L-2.6,-2.8 Z"/>
