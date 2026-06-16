@@ -44,9 +44,9 @@
   </g>
 
   <!-- Company name (textLength keeps it inside the artboard) -->
-  <text x="270" y="278" text-anchor="middle" textLength="500" lengthAdjust="spacingAndGlyphs"
-        font-family="Georgia, 'Times New Roman', serif" font-size="38" font-weight="700" fill="#1f2a36">ELAN CONSTRUCTION CORP</text>
-  <text x="270" y="304" text-anchor="middle" textLength="230" lengthAdjust="spacingAndGlyphs"
+  <text x="270" y="278" text-anchor="middle" textLength="420" lengthAdjust="spacingAndGlyphs"
+        font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700" letter-spacing="1" fill="#1f2a36">ELAN CONSTRUCTION</text>
+  <text x="270" y="305" text-anchor="middle" textLength="230" lengthAdjust="spacingAndGlyphs"
         font-family="Georgia, serif" font-size="20" fill="#3a4a5a">Siding &amp; Remodeling</text>
 
   <!-- Stars -->
