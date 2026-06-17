@@ -45,7 +45,7 @@ form.addEventListener('submit', (e) => {
     `Project details:\n${message}\n`;
 
   window.location.href =
-    `mailto:erikahenrriquez61@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    `mailto:constructionelan6@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 
   formNote.textContent = I18N[currentLang]['form.sent'];
   formNote.classList.add('form__note--ok');

@@ -5,7 +5,7 @@ A clean, responsive, bilingual (English/Spanish) one-page website for **Elan Con
 ## Business info
 - **Address:** 501 Dutch Ave, Mt Holly, NC 28120
 - **Phone:** +1 (980) 895-6776
-- **Email:** erikahenrriquez61@gmail.com
+- **Email:** constructionelan6@gmail.com
 
 ## Features
 - Responsive design (mobile, tablet, desktop)
